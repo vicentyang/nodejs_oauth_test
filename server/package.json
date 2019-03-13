@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_oauth_server",
+  "version": "1.0.0",
+  "description": "nodejs oauth server test",
+  "main": "index.js",
+  "author": "yc",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
